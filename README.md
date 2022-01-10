@@ -16,7 +16,7 @@
   <img align="center" alt="Colestra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Colestra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Colestra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Colestra-pic" height="150" style="border-radius:50px;" src="blob:https://web.whatsapp.com/8b1a6450-0571-4983-bbbf-c018b02dde6f">
+  
 </div>
   
   ##
