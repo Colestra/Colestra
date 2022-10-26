@@ -1,7 +1,7 @@
 ### Olá. Eu sou Vitor Betti (Colestra) 👋
 
 - 🔭 Atualmente trabalho com fiscal
-- 🌱 Estudando JavaScript , Node, React, Python
+- 🌱 Estudando JavaScript , Power BI, React, Python, RPA
 ## Olá eu sou o Vitor Betti(Colestra)
 <div align="center">
   <a href="https://github.com/Colestra">
